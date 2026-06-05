@@ -17,6 +17,7 @@ module load salmon/1.7.0
 module load openmpi/4.0.3
 module load gcc/9.3.0
 
+#Fastq files obtained from the European Nucleotide Archive
 
 Trinity \
     --seqType fq \
